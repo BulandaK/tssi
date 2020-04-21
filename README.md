@@ -1,2 +1,2 @@
 # tssi
-Mój przykładowy projekt
+Mój przykładowy projekt na lekcje tworzenie statycznych stron internetowych
